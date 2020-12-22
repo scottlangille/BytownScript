@@ -9,4 +9,6 @@
 // @resource csv file://bytown_rxserv/prxrem/Shared/scott/product_group_pricing.csv
 // @grant        GM_getResourceText
 // @require      https://raw.githubusercontent.com/scottlangille/BytownScript/main/script.js
+// @updateURL    https://raw.githubusercontent.com/scottlangille/BytownScript/main/userscript.js
+// @downloadURL  https://raw.githubusercontent.com/scottlangille/BytownScript/main/userscript.js
 // ==/UserScript==
