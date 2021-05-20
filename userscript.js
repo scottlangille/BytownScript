@@ -6,7 +6,7 @@
 // @author       Scott L.
 // @include      http://msc.cylink.ca/memberconnect/QuickOrderProcessing.do*
 // @include      https://msc.cylink.ca/memberconnect/QuickOrderProcessing.do*
-// @resource csv file://bytown_rxserv/prxrem/Shared/scott/product_group_pricing.csv
+// @resource csv https://raw.githubusercontent.com/scottlangille/BytownScript/main/sheet.csv
 // @grant        GM_getResourceText
 // @require      https://raw.githubusercontent.com/scottlangille/BytownScript/main/script.js
 // @updateURL    https://raw.githubusercontent.com/scottlangille/BytownScript/main/userscript.js
