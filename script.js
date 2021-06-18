@@ -118,7 +118,7 @@
                         + "</div></div>";
 
         // Set title
-        row.setAttribute("title", newTitle);
+//         row.setAttribute("title", newTitle);
 
     }
 
