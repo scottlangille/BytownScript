@@ -113,7 +113,7 @@
         // Set text under price column
         let elem = document.getElementById("yourcost_" + rowNum);
         elem.innerHTML += "<br><br><div style=\"background: rgba(255, 255, 255, 0.3); font-family: Consolas, Courier, Courier New, monospace; font-size: 13px; color: #000000; font-style: normal; font-weight: normal; line-height: 15px; text-align: center; \">"
-                        + "<div style=\"display: inline-block; text-align: left;\">"
+                        + "<div style=\"display: inline-block; text-align: left; min-width: max-content;\">"
                         + newText
                         + "</div></div>";
 
