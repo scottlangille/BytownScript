@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Bytown Modern Sales Auto-Price
 // @namespace    modernsales.ca
-// @version      2.0
+// @version      2.01
 // @description  Automatically calculates prices.
 // @author       Scott L.
 // @include      http://msc.cylink.ca/memberconnect/QuickOrderProcessing.do*
